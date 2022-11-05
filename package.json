@@ -1,0 +1,11 @@
+{
+  "name": "smart-contracts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Unlockable-NFTs/smart-contracts.git",
+  "author": "Naman Vyas <dellLaptop@naman.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "hardhat": "^2.12.2"
+  }
+}
